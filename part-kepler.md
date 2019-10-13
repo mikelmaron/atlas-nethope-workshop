@@ -1,4 +1,4 @@
-## Part X: Visualize Data in Kepler
+## Part 3: Visualize Data in Kepler
 
 ### Goal
 
@@ -75,4 +75,4 @@ To test this, reload your browser, and you will see the original "Add Data to Ma
 
 ### Next step
 
-[X]()
+[Part 4](./part-kit-admin.md)

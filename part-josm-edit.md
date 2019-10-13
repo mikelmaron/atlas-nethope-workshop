@@ -1,4 +1,4 @@
-## Part X: Digitize Imagery in JOSM
+## Part 2: Digitize Imagery in JOSM
 
 ### Goal
 
@@ -44,4 +44,4 @@ Happy Editing!
 
 ### Next step
 
-[X]()
+[Part 3](./part-kepler.md)

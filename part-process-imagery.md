@@ -1,4 +1,4 @@
-## Part X: Process Imagery on Atlas
+## Part 5: Process Imagery on Atlas
 
 ### Goal
 
@@ -39,4 +39,4 @@ These tiles are now available as layers in any style on the Fly Away Kit.
 
 ### Next step
 
-[X]()
+[Part 6](./part-process-vector.md)

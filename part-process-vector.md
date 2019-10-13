@@ -1,4 +1,4 @@
-## Part X: Process Vector Data on Atlas
+## Part 6: Process Vector Data on Atlas
 
 ### Goal
 
@@ -28,4 +28,4 @@ These tiles are now available as layers in any style on the Fly Away Kit.
 
 ### Next step
 
-[X]()
+[After this workshop](./#after-this-workshop)

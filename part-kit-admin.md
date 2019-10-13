@@ -1,4 +1,6 @@
-## Part X: Admin the Fly Away Kit
+## Part 4: Admin the Fly Away Kit
+
+<!-- will this be part of the GitHub repo, or simply reference and walk through the google doc with admin details -->
 
 ### Goal
 
@@ -13,5 +15,6 @@ Connecting a screen if needed
 Connecting to another network
 
 
-
 ### Next step
+
+[Part 5](./part-process-imagery.md)
