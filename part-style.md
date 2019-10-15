@@ -33,4 +33,4 @@ Create a map style to display the points in your dataset as circles on the map.
 
 ### Next step
 
-[Part 2](./josm-edit.md)
+[Part 2](./part-josm-edit.md)
