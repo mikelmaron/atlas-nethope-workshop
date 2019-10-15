@@ -30,7 +30,7 @@ and on day 2:
 
 ### Prerequisites
 
-No prior experience with geographic data or web mapping is required; basic familiarity web applications is assumed but everyone is welcome.
+Some familiarity with working geographic data and OpenStreetMap is helpful. No experience with web mapping is required. Basic familiarity web applications is assumed. But everyone is welcome.
 
 ### What you'll need
 
