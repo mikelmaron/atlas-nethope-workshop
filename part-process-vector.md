@@ -28,4 +28,4 @@ These tiles are now available as layers in any style on the Fly Away Kit.
 
 ### Next step
 
-[After this workshop](./#after-this-workshop)
+[After this workshop](./README.md#after-this-workshop)
