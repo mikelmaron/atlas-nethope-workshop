@@ -8,12 +8,26 @@ Create a map style to display the points in your dataset as circles on the map.
 
 ### Instructions
 
+#### Connect to the Atlas Flyaway Kit
+
+Connect to the Atlas router's offline wireless network on a wifi-enabled laptop:
+- network name (SSID): `flyaway-router` (or `flyaway-router-5G`)
+- password: `nullisland`
+
+Once connected to the network, navigate to http://192.168.1.2:2999/signin in your laptop's web browser and sign in with the following credentials:
+- user: `atlas-user`
+- password: `nullisland`
+
+You should now see the main Atlas dashboard:
+![](assets/images/atlas-dashboard.png)
+
+
 #### Start a new style from a template:
-- Navigate to the Studio Styles page at [studio.mapbox.com](https://studio.mapbox.com)
-- Click "New Style" to create a new style
-- Choose one of the ready-to-go templates, whichever one you like best! Maybe try a Monochrome map in your favorite color? It's up to you!
-- Once you've chosen your template, click the "Customize" button to start styling the template
-- You should now be in the Studio map editor interface. At the top of the page, you'll see the title of your style (it will default to your template's title). Click the pencil icon to rename your style with a custom name, e.g. "My Concatenate Map".
+- Navigate to the Atlas Studio Styles page at http://192.168.1.2:2999/studio
+- Click "More options" to create a new style
+- Choose one of the templates to start from, and click the "Create" button to start editing the style
+- You should now be in the Studio map editor interface. At the top of the page, you'll see the title of your style (it will default to your template's title). Click the pencil icon to rename your style to something that will identify it as yours, e.g. "vakila-dark"
+
 
 #### Create a new style layer:
 - Click the "+" button in the upper left corner to add a new layer. You should now see the "Select data" panel.
