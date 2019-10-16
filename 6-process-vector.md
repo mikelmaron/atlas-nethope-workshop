@@ -13,7 +13,7 @@ A GeoJSON file
 ### Instructions
 ![](assets/images/hdx-adm.png)
 
-- Find and download [Regional ADM2 boundaries](https://data.humdata.org/dataset/democratic-republic-of-congo-health-boundaries). This is a GeoJSON file.
+- Find and download [Regional ADM2 boundaries](https://data.humdata.org/dataset/democratic-republic-of-congo-health-boundaries). (A zipped copy is available in this repository at [data/DRC_ADM2.zip](./data/DRC_ADM2.zip)). Once unzipped, this is a GeoJSON file.
 
 - Copy your GeoJSON file onto the Atlas Fly Away Kit, renaming it to something that will identify it as yours. A temporary location is fine. For example:
 
@@ -23,7 +23,7 @@ A GeoJSON file
 
   Run the script `~/bin/geojson-to-tiles` by passing in the path to the GeoJSON file _without the `.geojson` extension_, for example:
 
-  `~/bin/geojson-to-tiles /tmp/vakila-adm2`z
+  `~/bin/geojson-to-tiles /tmp/vakila-adm2`
 
   This will create an `.mbtiles` file with the same name and in the same directory as the GeoJSON (e.g. `/tmp/vakila-adm2.mbtiles`).
 
