@@ -1,29 +1,31 @@
-# Building Interactive Maps with Mapbox
+# Offline Mapping with Mapbox Atlas
 
-Kinshasa Atlas Workshop
+Kinshasa Workshop
 
 [Anjana Vakil](https://twitter.com/AnjanaVakil), Software Engineer @ [Mapbox](https://www.mapbox.com)
 
 
 ## Overview
 
-Location data is all around us, and has become an increasingly important component of web & mobile apps users love. In this hands-on workshop, we'll learn how to build an interactive, custom visualization using open data and free, open-source tools from Mapbox. Through a hands-on project, we will cover basic web mapping concepts and tools, including:
-- Editing & styling maps in Mapbox Atlas, an offline map data & design tool for creating beautiful custom map styles
-- Use custom Atlas styles for digitizing in JOSM
+In this hands-on workshop, we'll learn how to build custom maps & visualizations using open data and free, open-source, offline-ready tools from Mapbox. Through hands-on activities, we will cover basic Mapbox concepts and tools, including:
+- Editing & styling maps in Mapbox Atlas, an offline map data & design tool
+- Using custom Atlas styles for digitizing in JOSM
 - Developing map visualizations with Kepler, a powerful and easy to use open source geospatial analysis tool for large-scale data sets
-- Process imagery and data for use in Mapbox Atlas
+- Processing imagery and data for use in Mapbox Atlas
 
 
 ### Goals
 
-By completing this workshop you'll learn how to on day 1:
+By completing this workshop you'll learn how to...
+
+Day 1:
 - Create & publish a new style in Studio from a template
 - Add a new layer with a custom tileset source to a style in Studio
 - Consume in JOSM a published aerial imagery style from Atlas
 - Build two different custom visualizations in Kepler from a single CSV dataset
 
-and on day 2:
-- Power up the Flyaway kit & connect with an external monitor
+Day 2:
+- Set up the Flyaway kit & connect with an external monitor
 - Connect the Flyway kit to a different (e.g. networked) router
 - Load and process imagery into a tileset
 - Load and process a geojson or Shapefile into a tileset
