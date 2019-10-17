@@ -73,15 +73,15 @@ You should now see the main Atlas dashboard:
 
 ### Day 2
 
-#### [Part 4: Fly Away Kit Admin](kit-admin.md)
+#### [Part 4: Flyaway Kit Admin](kit-admin.md)
 
 * Power up & configure the Flyaway kit
 
-### [Part 5: Process imagery](process-imagery.md)
+#### [Part 5: Process imagery](process-imagery.md)
 
 * Load and process imagery into a tileset
 
-### [Part 2: JOSM Editing](josm-edit.md)
+#### [Part 6: JOSM Editing](josm-edit.md)
 
 * Consume in JOSM a published aerial imagery style from Atlas
 
