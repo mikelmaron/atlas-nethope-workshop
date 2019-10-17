@@ -6,9 +6,8 @@ Load and process a GeoJSON into a tileset
 
 ### Requirements
 
-A GeoJSON file
+Access to Atlas running on the Flyaway kit.
 
-<!-- to prepare, we'll put regional ADM2 boundaries on the Fly Away Kit. https://opendata.arcgis.com/datasets/815dfe56234044f6927ffb7b1b67dee3_1.geojson-->
 
 ### Instructions
 ![](assets/images/hdx-adm.png)
