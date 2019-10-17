@@ -36,7 +36,22 @@ Some familiarity with working geographic data and OpenStreetMap is helpful. No e
 ### What you'll need
 
 - Laptop with browser (Chrome or Firefox preferred)
-- The workshop materials - download from [github.com/mapbox/atlas-drc-workshop](https://github.com/mapbox/atlas-drc-workshop)
+- These workshop materials
+- A wifi connection to the Atlas Flyaway kit closed network (see below)
+
+#### Connect to the Atlas Flyaway Kit
+
+Connect to the Atlas router's offline wireless network on a wifi-enabled laptop:
+- network name (SSID): `flyaway-router` (or `flyaway-router-5G`)
+- password: `nullisland`
+
+Once connected to the network, navigate to http://192.168.1.2:2999/signin in your laptop's web browser and sign in with the following credentials:
+- user: `atlas-user`
+- password: `nullisland`
+
+You should now see the main Atlas dashboard:
+![](assets/images/atlas-dashboard.png)
+
 
 
 ## Contents

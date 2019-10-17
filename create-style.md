@@ -1,25 +1,11 @@
-## Part 1: Style
+## Create a Map Style
 
-<!-- this needs to be revised to work off of pregenerated tiles -->
 
 ### Goal
 
 Create a custom map style that includes a layer with data from a given tileset.
 
 ### Instructions
-
-#### Connect to the Atlas Flyaway Kit
-
-Connect to the Atlas router's offline wireless network on a wifi-enabled laptop:
-- network name (SSID): `flyaway-router` (or `flyaway-router-5G`)
-- password: `nullisland`
-
-Once connected to the network, navigate to http://192.168.1.2:2999/signin in your laptop's web browser and sign in with the following credentials:
-- user: `atlas-user`
-- password: `nullisland`
-
-You should now see the main Atlas dashboard:
-![](assets/images/atlas-dashboard.png)
 
 
 #### Start a new style from a template:
