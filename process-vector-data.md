@@ -33,7 +33,3 @@ A GeoJSON file
 
 
 The new tileset can now be found on the Tilesets page at http://192.168.1.2:2999/studio/tilesets/ (you may need to refresh the page). This tileset is now available as a source in layers of any style on the Fly Away Kit.
-
-### Next step
-
-[After this workshop](./README.md#after-this-workshop)

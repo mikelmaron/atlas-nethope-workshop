@@ -1,4 +1,4 @@
-## Part 3: Visualize Data in Kepler
+## Visualize Data in Kepler
 
 ### Goal
 

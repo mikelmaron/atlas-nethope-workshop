@@ -1,4 +1,4 @@
-## Part 5: Process Imagery on Atlas
+## Process Imagery on Atlas
 
 ### Goal
 
@@ -36,7 +36,3 @@ Finally, move & rename the resulting mbtiles file to make it accessible to Atlas
 The format for any tileset in Atlas consists of the Atlas user name (`atlas-user`), the name of the tileset, and the ".mbtiles" suffix.
 
 These tiles are now available as layers in any style on the Fly Away Kit.
-
-### Next step
-
-[Part 6](./part-process-vector.md)

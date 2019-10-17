@@ -1,4 +1,4 @@
-## Part 2: Digitize Imagery in JOSM
+## Digitize Imagery in JOSM
 
 ### Goal
 
@@ -23,14 +23,9 @@ From the style editor, click "Share", then switch to the "Use" tab.
 In the Share dialog, click `Third Party`, and then `WMTS`. Copy the `Integration URL`.
 
 
-<!-- Add walkthrough of getting a rastertile endpoint (api-gl endpoint) from a style in Atlas Studio ( -> Style URL template w/ z/x/y -> JOSM preferences)
-When editing a style click "Share"
-In share dialog, option to click Web/iOS/Android/Unity - click 3rd party
-From 3rd party you receive different URL templates for ArcGIS/Carto/Tableau/Fulcrum - click Fulcrum & copy template Remove “@2x” -->
-
 ![JOSM config](assets/images/josm-config.png)
 
-Now in JOSM, open the `Imagery Preferences` panel in `Preferences`. In the bottom right click the `WTMS` button. 
+Now in JOSM, open the `Imagery Preferences` panel in `Preferences`. In the bottom right click the `WTMS` button.
 * Paste the integration URL below `2. Enter Get Capabilities URL`.
 * Select `Set default layer?`
 * Click `3. Get layers`
@@ -41,7 +36,3 @@ Now in JOSM, open the `Imagery Preferences` panel in `Preferences`. In the botto
 Now you can use this imagery hosted on the Atlas Fly Away Kit for editing. The Fly Away Kit may not be connected to the internet. So to download and upload OSM data, connect your laptop to another access point for data transfer. Then reconnect to the WIFI for the Fly Away Kit.
 
 Happy Editing!
-
-### Next step
-
-[Part 3](./part-kepler.md)
