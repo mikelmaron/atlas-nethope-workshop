@@ -21,67 +21,64 @@ By completing this workshop you'll learn how to...
 Day 1:
 - Create & publish a new style in Studio from a template
 - Add a new layer with a custom tileset source to a style in Studio
-- Consume in JOSM a published aerial imagery style from Atlas
 - Build two different custom visualizations in Kepler from a single CSV dataset
 
 Day 2:
-- Set up the Flyaway kit & connect with an external monitor
-- Connect the Flyway kit to a different (e.g. networked) router
-- Load and process imagery into a tileset
-- Load and process a geojson or Shapefile into a tileset
+- Set up & configure the Flyaway kit
+- Load and process raster & vector data into tilesets
+- Consume a published aerial imagery style from Atlas in JOSM
+
 
 ### Prerequisites
 
-Some familiarity with working geographic data and OpenStreetMap is helpful. No experience with web mapping is required. Basic familiarity web applications is assumed. But everyone is welcome.
+Some familiarity with working geographic data and OpenStreetMap is helpful. No experience with web mapping is required. Basic familiarity with the command line is assumed. But everyone is welcome.
 
 ### What you'll need
 
 - Laptop with browser (Chrome or Firefox preferred)
-- The workshop materials - fork or download this repository from [github.com/mapbox/atlas-drc-workshop](https://github.com/mapbox/atlas-drc-workshop)
-- Atlas Fly Away Kit Setup Guide
+- The workshop materials - download from [github.com/mapbox/atlas-drc-workshop](https://github.com/mapbox/atlas-drc-workshop)
 
-### Materials
-
-- [Slides](https://docs.google.com/presentation/d/1kREE7Nq2v_INX4tWGRUP7QZ0zIHQNj6f4YGOwVrNB-A/edit?usp=sharing)
-- Instructions in [this repository](https://github.com/mapbox/atlas-drc-workshop)
 
 ## Contents
 
-### [Part 1: Style](part-style.md)
+### Day 1
+
+#### [Part 1: Process vector data](process-vector-data.md)
+
+* Load and process a GeoJSON file into a tileset
+
+#### [Part 2: Style](create-style.md)
 
 * Create & publish a new style in Studio from a template
 * Add a new layer with a custom tileset source to a style in Studio
 
-### [Part 2: JOSM Editing](part-josm-edit.md)
-
-* Consume in JOSM a published aerial imagery style from Atlas
-
-### [Part 3: Kepler](part-kepler.md)
+#### [Part 3: Kepler](kepler.md)
 
 * Build two different custom visualizations in Kepler from a single CSV dataset
-Day 2: Configuring Atlas & Flyaway kit and processing data
 
-### [Part 4: Fly Away Kit Admin](part-kit-admin.md)
+### Day 2
 
-* Power up the Flyaway kit & connect with an external monitor
-* Connect the Flyway kit to a different (e.g. networked) router
-* [out of scope] Upgrade Atlas after a new release
+#### [Part 4: Fly Away Kit Admin](kit-admin.md)
 
-### [Part 5: Process imagery](part-process-imagery.md)
+* Power up & configure the Flyaway kit
+
+### [Part 5: Process imagery](process-imagery.md)
 
 * Load and process imagery into a tileset
 
-### [Part 6: Process vector data](part-process-vector.md)
+### [Part 2: JOSM Editing](josm-edit.md)
 
-* Load and process a geojson or Shapefile into a tileset
+* Consume in JOSM a published aerial imagery style from Atlas
+
+
 
 ## After this workshop
 
 ### Share what you #builtwithmapbox
 We'd love to see whatever you build! Share on Twitter with the [`#builtwithmapbox`](https://twitter.com/hashtag/builtwithmapbox) hashtag so that we can amplify your work!
 
-### Learn more about maps
-We've only scratched the surface of what maps & Mapbox tools can do!
+### Learn more
+We've only scratched the surface of what Mapbox tools can do!
 
 For more information & ideas, check out:
 - The Mapbox [Documentation](https://docs.mapbox.com), including [Help](https://docs.mapbox.com/help/) and [Tutorials](https://docs.mapbox.com/help/tutorials)
@@ -96,4 +93,4 @@ Keep up with [@Mapbox](https://twitter.com/mapbox) and [@AnjanaVakil](https://tw
 
 This workshop would not have been possible without:
 - The amazing OSM DRC organizers, especially Claire Halleux
-- My fabulous colleagues at Mapbox, especially Mikel Maron, Marena Brinkhurst, and John Branigan
+- My fabulous colleagues at Mapbox, especially Mikel Maron, Marena Brinkhurst, and the Atlas team
