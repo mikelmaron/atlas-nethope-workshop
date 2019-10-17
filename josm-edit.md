@@ -16,11 +16,11 @@ First, get the `WTMS` integration endpoint for the style.
 
 ![Atlas Style Share](assets/images/style-share.png)
 
-From the style editor, click "Share".
+From the style editor, click "Share", then switch to the "Use" tab.
 
 ![Atlas Integration URL](assets/images/share-integration-url.png)
 
-In the Share dialog, click `Third Party`, and then `WMTS`. Copy the `Intergration URL`.
+In the Share dialog, click `Third Party`, and then `WMTS`. Copy the `Integration URL`.
 
 
 <!-- Add walkthrough of getting a rastertile endpoint (api-gl endpoint) from a style in Atlas Studio ( -> Style URL template w/ z/x/y -> JOSM preferences)
@@ -30,7 +30,7 @@ From 3rd party you receive different URL templates for ArcGIS/Carto/Tableau/Fulc
 
 ![JOSM config](assets/images/josm-config.png)
 
-Now in JOSM, open the `Imagery Preferences` panel in `Preferences`.
+Now in JOSM, open the `Imagery Preferences` panel in `Preferences`. In the bottom right click the `WTMS` button. 
 * Paste the integration URL below `2. Enter Get Capabilities URL`.
 * Select `Set default layer?`
 * Click `3. Get layers`

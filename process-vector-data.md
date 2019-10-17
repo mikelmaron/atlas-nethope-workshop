@@ -1,4 +1,4 @@
-## Part 6: Process Vector Data on Atlas
+## Process Vector Data on Atlas
 
 ### Goal
 
