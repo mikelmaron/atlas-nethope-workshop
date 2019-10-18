@@ -58,30 +58,30 @@ You should now see the main Atlas dashboard:
 
 ### Day 1
 
-#### [Part 1: Process vector data](process-vector-data.md)
-
-* Load and process a GeoJSON file into a tileset
-
-#### [Part 2: Style](create-style.md)
+#### [1A: Style](create-style.md)
 
 * Create & publish a new style in Studio from a template
 * Add a new layer with a custom tileset source to a style in Studio
 
-#### [Part 3: Kepler](kepler.md)
+#### [1B: Kepler](kepler.md)
 
 * Build two different custom visualizations in Kepler from a single CSV dataset
 
 ### Day 2
 
-#### [Part 4: Flyaway Kit Admin](kit-admin.md)
+#### [2A: Flyaway Kit Admin](kit-admin.md)
 
 * Power up & configure the Flyaway kit
 
-#### [Part 5: Process imagery](process-imagery.md)
+#### [2B: Process vector data](process-vector-data.md)
+
+* Load and process a GeoJSON file into a tileset
+
+#### [2C: Process imagery](process-imagery.md)
 
 * Load and process imagery into a tileset
 
-#### [Part 6: JOSM Editing](josm-edit.md)
+#### [2D: JOSM Editing](josm-edit.md)
 
 * Consume in JOSM a published aerial imagery style from Atlas
 
