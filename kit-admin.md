@@ -1,15 +1,26 @@
-## Admin the Fly Away Kit
+## Admin the Flyaway Kit
 
-<!-- will this be part of the GitHub repo, or simply reference and walk through the google doc with admin details -->
 
 ### Goal
 
+Set up & configure the Flyaway Kit to access Mapbox Atlas
+
 ### Requirements
 
-### Instructions
-Power up the Flyaway kit & connect with an external monitor
-Connect the Flyway kit to a different (e.g. networked) router
+- Flyaway Kit with all included hardware
+- [Atlas Flyaway Kit Setup Guide](./docs/Atlas-Flyaway-Kit-Setup-Guide.pdf) instructions
+- [Atlas Toolkit documentation](./docs/Atlas-Toolkit-Docs.zip)
 
-Plugging in and running hardware
-Connecting a screen if needed
-Connecting to another network
+### Instructions
+
+Follow the instructions in the [Atlas Flyaway Kit Setup Guide](./docs/Atlas-Flyaway-Kit-Setup-Guide.pdf) to:
+- Power up the Flyaway kit hardware
+- Connect to the Atlas machine via SSH/SCP
+- Access the router admin interface 
+- [optional] Connect with an external monitor to access the Ubuntu desktop
+
+[Optional] Follow the instructions in the [Atlas Toolkit documentation](./docs/Atlas-Toolkit-Docs.zip) to:
+- Start/Stop the Atlas server
+- View/Change the Atlas server configuration
+- Connect the Flyway kit to a different (e.g. networked) router
+
