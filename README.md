@@ -25,9 +25,9 @@ Day 1:
 
 Day 2:
 - Set up & configure the Flyaway kit
-- Load and process raster & vector data into tilesets
+- Load and process raster data into tilesets
 - Consume a published aerial imagery style from Atlas in JOSM
-
+- Convert raster imagery into tilesets
 
 ### Prerequisites
 
@@ -77,13 +77,13 @@ You should now see the main Atlas dashboard:
 
 * Load and process a GeoJSON file into a tileset
 
-#### [2C: Process imagery](process-imagery.md)
-
-* Load and process imagery into a tileset
-
-#### [2D: JOSM Editing](josm-edit.md)
+#### [2C: JOSM Editing](josm-edit.md)
 
 * Consume in JOSM a published aerial imagery style from Atlas
+
+#### [2D: Process imagery](process-imagery.md)
+
+* Load and process imagery into a tileset
 
 
 
