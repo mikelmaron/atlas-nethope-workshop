@@ -2,17 +2,22 @@
 
 ### Goal
 
-Build and share two different custom interactive visualizations in Kepler from a single CSV dataset
+Build and share two different custom interactive visualizations in Kepler
 
 ### Requirements
 
 Kepler works mainly on CSV data. For this lesson, we use [CSV data on violent incidents in Kivu](
 https://github.com/OSU-Battelle-Center/DRC-Ebola-Conflict/blob/master/Data/kivu_security.csv) complied by the [Kivu Security Tracker](https://github.com/OSU-Battelle-Center/DRC-Ebola-Conflict/wiki/Dataset:-Violent-conflict-in-the-region) (A copy of the CSV file is available here at [data/kivu_security.csv](./data/kivu_security.csv).)
 
+
+(script which grabs geojson and converts to csv and puts on atlas)
+
+![](assets/images/kepler-nethope.png)
+
 ### Instructions
 
 #### Launch Kepler with your data
-Kepler.gl is a powerful and easy to use open source geospatial analysis tool for large-scale data sets. There is a link to open Kepler on the main page of Atlas, or directly at http://192.168.1.2:2999/kepler.gl
+Kepler.gl is a powerful and easy to use open source geospatial analysis tool for large-scale data sets. There is a link to open Kepler on the main page of Atlas, or directly at http://192.168.1.100:2999/kepler.gl
 
 
 First, you will be prompted to upload data. Locate `kivu_security.csv` and upload.
@@ -60,7 +65,7 @@ Add and recreate the original Points layer above, and then enable "Switch to dua
 
 #### Change the base map
 
-In the left hand panel, click the "Base map" tab, and click "+ Add Map Style". In another tab, find the Satellite style from the [Studio Styles page](http://192.168.1.2:2999/studio/), and click "Share & Use". Switch to the "Use" tab and copy the access token, and then the style URL. Paste these into the "Add Custom Mapbox Style" dialog in Kepler.
+In the left hand panel, click the "Base map" tab, and click "+ Add Map Style". In another tab, find the Satellite style from the [Studio Styles page](http://192.168.1.100:2999/studio/), and click "Share & Use". Switch to the "Use" tab and copy the access token, and then the style URL. Paste these into the "Add Custom Mapbox Style" dialog in Kepler.
 ![](assets/images/kepler-custom.png)
 
 ![](assets/images/kepler-satellite.png)
