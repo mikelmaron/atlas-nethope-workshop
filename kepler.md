@@ -7,10 +7,7 @@ Build and share two different custom interactive visualizations in Kepler
 ### Requirements
 
 Kepler works mainly on CSV data. For this lesson, we use [Damage assessment data collected in Fulcrum after Hurricane Maria](
-http://192.168.1.100:TBD/damage.csv) and [hands on assessment data just collected] (A copy of the damage assessment CSV file is available here at [data/damage.csv](./data/damage.csv). TBD -- ok to distribute?)
-
-
-(TBD script which grabs geojson and converts to csv and puts on atlas)
+http://192.168.1.100:TBD/damage.csv) and [hands on assessment data just collected] (A copy of the damage assessment CSV file is available here at [data/damage.csv](./data/damage.csv).)
 
 ![](assets/images/kepler-nethope.png)
 
@@ -65,7 +62,7 @@ To create a 3D view of the hexbins, select "3D Map" on the upper right side, and
 
 #### Add data from today
 
-In the "Layers" panel, click "+ Add Data". Click "Load Map Using URL" and enter `http://192.168.1.100:TBD/damage.csv`.
+In the "Layers" panel, click "+ Add Data". Click "Load Map Using URL" and enter `http://192.168.1.100:TBD/nethope.csv`.
 
 Delete the "Polygon" layer, and hide the "Hexbin" layer for the moment. Disable "3D Map" and zoom in on the hotel. Customize the colors (try basing on "Status") and the interaction. Un-hide the "Hexbin" layer.
 
