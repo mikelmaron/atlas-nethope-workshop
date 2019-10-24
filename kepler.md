@@ -7,7 +7,7 @@ Build and share two different custom interactive visualizations in Kepler
 ### Requirements
 
 Kepler works mainly on CSV data. For this lesson, we use [Damage assessment data collected in Fulcrum after Hurricane Maria](
-http://192.168.1.100:TBD/damage.csv) and [hands on assessment data just collected] (A copy of the damage assessment CSV file is available here at [data/damage.csv](./data/damage.csv).)
+http://192.168.1.100:8000/damage.csv) and [hands on assessment data just collected] (A copy of the damage assessment CSV file is available here at [data/damage.csv](./data/damage.csv).)
 
 ![](assets/images/kepler-nethope.png)
 
@@ -17,7 +17,7 @@ http://192.168.1.100:TBD/damage.csv) and [hands on assessment data just collecte
 Kepler.gl is a powerful and easy to use open source geospatial analysis tool for large-scale data sets. There is a link to open Kepler on the main page of Atlas, or directly at http://192.168.1.100:2999/kepler.gl
 
 
-First, you will be prompted to load data. Click "Load Map Using URL" and enter `http://192.168.1.100:TBD/damage.csv`
+First, you will be prompted to load data. Download "damage.csv" and upload to Kepler.
 
 ![](assets/images/kepler-start.png)
 
@@ -63,7 +63,7 @@ To create a 3D view of the hexbins, select "3D Map" on the upper right side, and
 
 #### Add data from today
 
-In the "Layers" panel, click "+ Add Data". Click "Load Map Using URL" and enter `http://192.168.1.100:TBD/nethope.csv`.
+In the "Layers" panel, click "+ Add Data". Download `http://192.168.1.100:8000/nethope.csv` and upload to Kepler.
 
 Delete the "Polygon" layer, and hide the "Hexbin" layer for the moment. Disable "3D Map" and zoom in on the hotel. Customize the colors (try basing on "Status") and the interaction. Un-hide the "Hexbin" layer.
 
