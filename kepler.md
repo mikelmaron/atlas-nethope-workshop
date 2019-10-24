@@ -40,6 +40,7 @@ Open additional color options by clicking the "..." to the right of "Fill Color"
 Next apply a filter. Click the "Filters" panel, then "+ Add Filter". Click "Select a field", and select "number_of_stories". Adjust the range below to filter out 1 story buildings.
 ![](assets/images/kepler-filter.png)
 
+Try changing the filter field to "created_at". This will add a timeline filter.
 
 Finally, adjust what fields are displayed when hovering over a point. Click the "Interactions" panel, and "x" off all the fields present. Click elsewhere in the box and select "created_by", "general_notes", "year_built" and "roof_shape".
 
