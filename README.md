@@ -17,7 +17,7 @@ By completing this workshop you'll learn how to...
 
 - Create & publish a new style in Studio from a template
 - Add a new layer with a custom tileset source to a style in Studio
-- Build two different custom visualizations in Kepler from a single CSV dataset
+- Build two different custom visualizations in Kepler
 
 ### Prerequisites
 
@@ -26,7 +26,7 @@ Some familiarity with working geographic data is helpful, but not required. No e
 ### What you'll need
 
 - Laptop with browser (Chrome or Firefox preferred)
-- The workshop materials - download from [github.com/mapbox/atlas-nethope-workshop](https://github.com/mapbox/atlas-nethop-workshop)
+- The workshop materials - download from [github.com/mikelmaron/atlas-nethope-workshop](https://github.com/mikelmaron/atlas-nethop-workshop)
 
 
 ## Contents
@@ -38,7 +38,7 @@ Some familiarity with working geographic data is helpful, but not required. No e
 
 ### [Part 2: Kepler](kepler.md)
 
-* Build two different custom visualizations in Kepler from a single CSV dataset
+* Build two different custom visualizations in Kepler
 
 ## After this workshop
 
@@ -59,4 +59,4 @@ Keep up with [@Mapbox](https://twitter.com/mapbox) and [@mikel](https://twitter.
 
 ## Thank you
 
-This workshop would not have been possible without the hard work I borrowed from Anjana Vakil, my excellent co-presenters from Fulcrum, and John Crowley and NetHope for creating this space for us to build together.
+This workshop would not have been possible without the hard work I borrowed from Anjana Vakil, my excellent co-presenters Coleman McCormick from Fulcrum, and John Crowley from NetHope. Thanks NetHope Summit for creating this space for us to build together.

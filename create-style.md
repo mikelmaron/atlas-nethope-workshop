@@ -51,10 +51,6 @@ Because of size constraints, Atlas comes with global satellite only to zoom leve
 - Repeat the same with `sanjuan-satellite-17`, and drag to just above `atlas-user-puertorico-satellite-14`
 - "Publish..." again
 
-#### Bonus
-
-Add just collected data.
-
 ### Next step
 
 [Part 2](./kepler.md)
