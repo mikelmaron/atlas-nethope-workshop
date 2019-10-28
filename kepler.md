@@ -7,15 +7,15 @@ Build and share two different custom interactive visualizations in Kepler
 ### Requirements
 
 Kepler works mainly on CSV data. For this lesson, we use [Damage assessment data collected in Fulcrum after Hurricane Maria](
-http://192.168.1.100:8000/damage.csv) and [hands on assessment data just collected] (A copy of the damage assessment CSV file is available here at [data/damage.csv](./data/damage.csv).)
+./data/damage.csv) and [hands on assessment data just collected](https://web.fulcrumapp.com/shares/7579ac8fcc5eb36f.csv)
 
 ![](assets/images/kepler-nethope.png)
 
 ### Instructions
 
 #### Launch Kepler with your data
-Kepler.gl is a powerful and easy to use open source geospatial analysis tool for large-scale data sets. There is a link to open Kepler on the main page of Atlas, or directly at http://192.168.1.100:2999/kepler.gl
-
+Kepler.gl is a powerful and easy to use open source geospatial analysis tool for large-scale data sets. There is a link to open Kepler on the main page of Atlas, or directly at http://192.168.1.100:2999/kepler.gl (or https://kepler.gl/demo after the 
+workshop)
 
 First, you will be prompted to load data. Download "damage.csv" and upload to Kepler.
 
@@ -63,7 +63,7 @@ To create a 3D view of the hexbins, select "3D Map" on the upper right side, and
 
 #### Add data from today
 
-In the "Layers" panel, click "+ Add Data". Download `http://192.168.1.100:8000/nethope.csv` and upload to Kepler.
+In the "Layers" panel, click "+ Add Data". Download `https://web.fulcrumapp.com/shares/7579ac8fcc5eb36f.csv` and upload to Kepler.
 
 Delete the "Polygon" layer, and hide the "Hexbin" layer for the moment. Disable "3D Map" and zoom in on the hotel. Customize the colors (try basing on "Status") and the interaction. Un-hide the "Hexbin" layer.
 
@@ -72,7 +72,7 @@ Now enable "Switch to dual map view" with the button in the upper right. Click t
 
 #### Change the base map
 
-In the left hand panel, click the "Base map" tab, and click "+ Add Map Style". In another tab, find the style you created from the [Studio Styles page](http://192.168.1.100:2999/studio/), and click "Share & Use". Switch to the "Use" tab and copy the access token, and then the style URL. Paste these into the "Add Custom Mapbox Style" dialog in Kepler.
+In the left hand panel, click the "Base map" tab, and click "+ Add Map Style". In another tab, find the style you created from the [Studio Styles page](http://192.168.1.100:2999/studio/) (or https://studio.mapbox.com/ after the workshop), and click "Share & Use". Switch to the "Use" tab and copy the access token, and then the style URL. Paste these into the "Add Custom Mapbox Style" dialog in Kepler.
 ![](assets/images/kepler-custom.png)
 
 ![](assets/images/kepler-satellite.png)
