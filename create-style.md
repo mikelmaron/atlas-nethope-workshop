@@ -1,6 +1,7 @@
 ## Style
 
 <!-- this needs to be revised to work off of pregenerated tiles -->
+**After the workshop, use your own account on https://mapbox.com/studio/**
 
 ### Goal
 
